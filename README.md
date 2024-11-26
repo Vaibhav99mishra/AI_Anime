@@ -181,7 +181,7 @@ Enter a text prompt in the input field, such as "powerful warrior" or "mysteriou
 
 Congratulations! You have successfully built an AI anime character generator using Next.js and Replicate.
 
-![Untitled](Anime.WEBP)
+![Untitled](Anime.webp)
 
 ## **Conclusion**
 
